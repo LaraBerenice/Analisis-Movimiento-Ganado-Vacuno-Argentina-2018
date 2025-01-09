@@ -6,7 +6,7 @@ El proyecto plantea una hipótesis e intenciones en los objetivos específicos, 
 
 Puedes ver una aproximaciòn estàtica del informe en pdf que debe deployarse en Power BI para ser interactivo. (.pbix)
 
-[Abrir el informe en PDF](./Archivos/Informe/TRABAJO%20FINAL%20_LARA_LEDESMA_MGB_2018.pdf)
+[Abrir el informe en PDF](Archivos/Informe_en_POOWER_BI/Documentaciòn_Power_BI/TRABAJO FINAL_LARA_LEDESMA_MGB_2018.pdf)
 
 
 <p align="center">
